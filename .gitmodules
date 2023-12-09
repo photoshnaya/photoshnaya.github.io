@@ -1,0 +1,3 @@
+[submodule "biscuit"]
+	path = biscuit
+	url = git@github.com:sblisesivdin/biscuit.git
