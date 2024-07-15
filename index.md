@@ -4,7 +4,7 @@ layout: default
 
 ![PhotoBot](assets/photosh.jpeg)
 
-**Текущая тема — lo-fi**
+**Текущая тема — framing**
 
 ## Темы
 1. Круглое
@@ -71,4 +71,5 @@ layout: default
 62. Время
 63. Широкий угол
 64. Книга
-65. lo-fi — Текущая тема
+65. lo-fi
+66. framing — Текущая тема
